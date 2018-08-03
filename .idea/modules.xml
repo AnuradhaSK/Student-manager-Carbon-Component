@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt/org.wso2.carbon.student.mgt.iml" filepath="$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt/org.wso2.carbon.student.mgt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt.stub/orgwso2carbonstudentmgtstub.iml" filepath="$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt.stub/orgwso2carbonstudentmgtstub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt.ui/orgwso2carbonstudentmgtui.iml" filepath="$PROJECT_DIR$/student-manager-components/org.wso2.carbon.student.mgt.ui/orgwso2carbonstudentmgtui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager.iml" filepath="$PROJECT_DIR$/student-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager-components/student-manager-components.iml" filepath="$PROJECT_DIR$/student-manager-components/student-manager-components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager-features/student-manager-features.iml" filepath="$PROJECT_DIR$/student-manager-features/student-manager-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-manager-repository/student-manager-repository.iml" filepath="$PROJECT_DIR$/student-manager-repository/student-manager-repository.iml" />
+    </modules>
+  </component>
+</project>

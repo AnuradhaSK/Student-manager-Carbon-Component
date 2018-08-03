@@ -1,0 +1,35 @@
+<component xmlns="http://products.wso2.org/carbon" >
+    <menus>
+        <!--<menu>
+        <id>sample_menu</id>
+        <i18n-key>menu.purposes</i18n-key>
+        <i18n-bundle>org.wso2.carbon.student.mgt.ui.i18n.Resources</i18n-bundle>
+        <parent-menu>manage_menu</parent-menu>
+        <link>#</link>
+        <icon>../student-mgt/images/students.gif</icon>
+        <region>region1</region>
+        <order>1</order>
+        <style-class>manage</style-class>
+        <at-least>/permission/admin/configure/student</at-least>
+        </menu>-->
+        <menu>
+            <id>studentmgt_menu</id>
+            <i18n-key>student.menu</i18n-key>
+            <i18n-bundle>org.wso2.carbon.student.mgt.ui.i18n.Resources</i18n-bundle>
+            <parent-menu>manage_menu</parent-menu>
+            <link>../student-mgt/index.jsp</link>
+            <region>region1</region>
+            <order>50</order>
+            <style-class>manage</style-class>
+            <icon>../student-mgt/images/students.gif</icon>
+            <require-permission>/permission/protected/manage</require-permission>
+        </menu>
+
+    </menus>
+    <!--<ManagementPermissions>
+        <ManagementPermission>
+            <DisplayName>Remote Repository Fetch Management</DisplayName>
+            <ResourceId>/permission/admin/configure/student</ResourceId>
+        </ManagementPermission>
+    </ManagementPermissions>-->
+</component>
